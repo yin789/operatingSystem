@@ -1,2 +1,3 @@
 # operatingSystem
-Learning records for OS
+Summary notes for OS
+
